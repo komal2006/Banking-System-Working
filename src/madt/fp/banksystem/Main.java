@@ -25,8 +25,8 @@ public class Main {
     private static Gson gson = new Gson();
     private static Scanner sc;
 
-    private static String records_file_location = "C:\\Users\\Jassie\\Desktop\\MADT.txt"; // Windows
-    // MAC :- "/Users/MacStudent/Desktop/Java.txt";
+    private static String records_file_location = "/Users/komaldeepkaur/Desktop/Java.rtf";
+
 
     public static String empnme;
 
